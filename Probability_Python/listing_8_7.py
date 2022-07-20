@@ -8,4 +8,4 @@ k = 100
 dist = binom(k, p)
 # calculate the probability of <=n successes
 for n in range(10, 110, 10):
-print('P of %d success: %.3f%%' % (n, dist.cdf(n)*100))
+    print('P of %d success: %.3f%%' % (n, dist.cdf(n)*100))
