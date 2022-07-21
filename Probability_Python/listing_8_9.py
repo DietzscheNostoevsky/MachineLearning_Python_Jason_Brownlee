@@ -10,4 +10,4 @@ k = 100
 cases = multinomial(k, p)
 # summarize cases
 for i in range(len(cases)):
-print('Case %d: %d' % (i+1, cases[i]))
+    print('Case %d: %d' % (i+1, cases[i]))
