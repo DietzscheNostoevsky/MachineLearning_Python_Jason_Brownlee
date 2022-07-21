@@ -5,7 +5,7 @@ from numpy.random import multinomial
 p = [1.0/3.0, 1.0/3.0, 1.0/3.0]
 k = 100
 
-8.7. Further Reading 57
+
 # run a single simulation
 cases = multinomial(k, p)
 # summarize cases
