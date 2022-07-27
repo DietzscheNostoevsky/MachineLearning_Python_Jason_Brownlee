@@ -6,7 +6,7 @@ k = 100
 # define the distribution
 dist = multinomial(k, p)
 # define a specific number of outcomes from 100 trials cases = [33, 33, 34]
-# calculate the probability for the case
+# calculate the probability for the case #
 pr = dist.pmf(cases)
 # print as a percentage #
 print('Case=%s, Probability: %.3f%%' % (cases, pr*100))
