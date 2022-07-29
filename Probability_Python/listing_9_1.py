@@ -4,6 +4,6 @@ from numpy.random import normal
 mu = 50
 sigma = 5
 n = 10
-# generate the sample
+# generate the sample #
 sample = normal(mu, sigma, n)
 print(sample)
