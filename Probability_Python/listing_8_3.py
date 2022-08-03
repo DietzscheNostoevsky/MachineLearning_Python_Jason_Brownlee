@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # calculate moments of a binomial distribution
 from scipy.stats import binom
 # define the parameters of the distribution
