@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # example of simulating a multinomial process
 from numpy.random import multinomial
 # define the parameters of the distribution
