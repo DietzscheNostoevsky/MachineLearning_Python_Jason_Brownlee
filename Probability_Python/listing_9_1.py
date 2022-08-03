@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # sample a normal distribution
 from numpy.random import normal
 # define the distribution
