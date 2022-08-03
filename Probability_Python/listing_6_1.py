@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # example of the birthday problem
 # define maximum group size
 n = 30
