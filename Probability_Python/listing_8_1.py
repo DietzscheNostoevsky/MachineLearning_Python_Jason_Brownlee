@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # example of simulating a binomial process and counting success
 from numpy.random import binomial
 # define the parameters of the distribution p = 0.3
