@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # example of using the cdf for the binomial distribution
 from scipy.stats import binom
 # define the parameters of the distribution
