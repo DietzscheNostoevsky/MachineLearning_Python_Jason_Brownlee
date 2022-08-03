@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # calculate the probability for a given number of events of each type
 from scipy.stats import multinomial
 # define the parameters of the distribution
