@@ -6,7 +6,7 @@ from matplotlib import pyplot
 mu = 50
 sigma = 5
 
-9.3. Normal Distribution 63
+
 # create distribution
 dist = norm(mu, sigma)
 # plot pdf
