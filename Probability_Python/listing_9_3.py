@@ -5,8 +5,6 @@ from matplotlib import pyplot
 # define distribution parameters
 mu = 50
 sigma = 5
-
-
 # create distribution
 dist = norm(mu, sigma)
 # plot pdf
